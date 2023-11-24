@@ -1,2 +1,2 @@
-# dashboard
+# Submission
 Tugas Dicoding
