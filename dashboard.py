@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-day_df = pd.read_csv("https://raw.githubusercontent.com/rizqiopel/dataanalis/main/day.csv")
+day_df = pd.read_csv("day.csv")
 
 st.title("Bike Sharing Data Analysis Dashboard")
 
