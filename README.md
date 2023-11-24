@@ -1,5 +1,5 @@
 # Submission
 Tugas Dicoding
 
-Run steamlit app
+# Run steamlit app
 streamlit run dashboard.py
